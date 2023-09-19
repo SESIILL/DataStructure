@@ -16,7 +16,7 @@ int main(void) {
 	printf("Enter midterm and final score: ");
 	scanf("%d %d", &sp->midterm, &sp->final);
 
-	printf("\n�̸�\t�߰�\t�б⸻\n");
+	printf("\n이름\t중간\t학기말\n");
 	printf("%s\t%d\t%d\n", sp->name, sp->midterm, sp->final);
 
 	free(sp);
