@@ -1,5 +1,0 @@
-﻿  HW2_4.c
-C:\Users\손채연\Desktop\3-2\자료구조\Week_2\HW2_4\HW2_4.c(42,3): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\손채연\Desktop\3-2\자료구조\Week_2\HW2_4\HW2_4.c(56): warning C4715: 'peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
-C:\Users\손채연\Desktop\3-2\자료구조\Week_2\HW2_4\HW2_4.c(46): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  HW2_4.vcxproj -> C:\Users\손채연\Desktop\3-2\자료구조\Week_2\x64\Debug\HW2_4.exe
